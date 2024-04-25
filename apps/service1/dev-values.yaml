@@ -1,6 +1,6 @@
 replicaCount: 2
 
 image:
-  repository: devesigv2acreastus.azurecr.io/esignature-bulksend-api
+  repository: docker pull bfraserc/service1
   pullPolicy: IfNotPresent
-  tag: f76a236
+  tag: v2
