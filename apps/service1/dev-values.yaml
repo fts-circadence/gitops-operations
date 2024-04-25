@@ -1,0 +1,6 @@
+replicaCount: 2
+
+image:
+  repository: devesigv2acreastus.azurecr.io/esignature-bulksend-api
+  pullPolicy: IfNotPresent
+  tag: f76a236
