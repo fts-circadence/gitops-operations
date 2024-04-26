@@ -3,4 +3,4 @@ replicaCount: 2
 image:
   repository: docker.io/bfraserc/service1
   pullPolicy: IfNotPresent
-  tag: v4
+  tag: v5
